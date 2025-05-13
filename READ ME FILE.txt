@@ -1,0 +1,28 @@
+CREDITS:
+M HARIS FAYYAZ    23L-0767
+BISSAM IFTIKHAR   23L-0913
+
+START:
+1. Press P to start the Game
+2. Press C for Credits
+3. Press E at the main menu to Exit
+
+After you press P at Main Menu:
+
+INSTRUCTIONS:
+1. Press W to move up
+2. Press A to move left
+3. Press S to move down
+4. Press D to move right
+5. G adds 10 to the score
+6. T adds 50 to the score
+7. E decrements a life from the 3 lives and subtracts 10 from the score. If lives get to zero, the Game is over.
+8. Move to W of WIN to win the game
+9. Press M to activate SUPERMAN-MODE
+10. SUPERMAN-MODE:
+	1. Will be activated for a specific time (10sec) and The Player will start blinking and a message  be 	   displayed on the side menu.
+	2. Perks get doubled i.e. G will now add 20 and T will now add 100
+	3. E wont decrease the score and lives.
+	4. If you are on the edge of a wall and press M, you get past that wall otherwise you will move two steps 	   further
+	5. SUPERMAN-MODE can only be activated 2 times in the game. Third time you press M, it won't do anything.
+11. There is a time allocated for the Game. If the time approaches zero, the game ends with "TIME OVER" on Menu.
